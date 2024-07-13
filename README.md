@@ -1,5 +1,8 @@
 # Hey there! 👋
-
+<p align='center'>
+<a href="https://www.linkedin.com/in/yaremadzulynsky/"><img height="30" src="https://raw.githubusercontent.com/Yaremadzulynsky/Yaremadzulynsky/main/assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:ydzulyns@uwaterloo.ca"><img height="30" src="https://raw.githubusercontent.com/Yaremadzulynsky/Yaremadzulynsky/main/assets/gmail.png"/></a>&nbsp;&nbsp;
+</p>
 
 My name is Yarema Dzulynsky and I'm a Mechatronics Engineering student at the University of Waterloo, passionate about creating innovative solutions that bridge the gap between hardware and software. I love building physical devices that, while simple on their own, become incredibly powerful when combined with intelligent software. This intersection of hardware and software fascinates me because hardware alone lacks intelligence, and software lacks tangibility. Together, they create a tangible form of software that can interact with the physical world in meaningful ways.
 
