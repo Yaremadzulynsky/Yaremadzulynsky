@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hey there! 👋
+
+
+My name is Yarema Dzulynsky and I'm a Mechatronics Engineering student at the University of Waterloo, passionate about creating innovative solutions that bridge the gap between hardware and software. I love building physical devices that, while simple on their own, become incredibly powerful when combined with intelligent software. This intersection of hardware and software fascinates me because hardware alone lacks intelligence, and software lacks tangibility. Together, they create a tangible form of software that can interact with the physical world in meaningful ways.
 
 <!--
 **Yaremadzulynsky/Yaremadzulynsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
