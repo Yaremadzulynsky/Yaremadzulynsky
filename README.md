@@ -2,7 +2,14 @@
 
 My name is Yarema Dzulynsky and I'm a Mechatronics Engineering student at the University of Waterloo, passionate about creating innovative solutions that bridge the gap between hardware and software. I love building physical devices that, while simple on their own, become incredibly powerful when combined with intelligent software. This intersection of hardware and software fascinates me because hardware alone lacks intelligence, and software lacks tangibility. Together, they create a tangible form of software that can interact with the physical world in meaningful ways.
 
-## Experience
+# Projects
+[Integrated Navigation and Flight UAV Monitoring System](https://github.com/Yaremadzulynsky/INFUMS)
+
+[UWARG Flight Controller](https://github.com/UWARG/efs-zeropilot-3.5)
+
+[Physics Simulation](https://github.com/Yaremadzulynsky/PhysicsSimulation/blob/master/src/MainClass.java)
+
+# Experience
 - **Magna International**: IoT Developer, Industry 4.0, Aurora, Ontario, 8 months
 - **Aerodrone**: Telemetry Engineer, Kyiv, Ukraine, 4 months
 - **Waterloo Aerial Robotics Group**: Project Manager, Telemetry, Waterloo, Ontario, 12 months
