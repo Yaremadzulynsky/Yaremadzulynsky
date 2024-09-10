@@ -7,6 +7,8 @@ My name is Yarema Dzulynsky and I'm a Mechatronics Engineering student at the Un
 
 [UWARG Flight Controller](https://github.com/UWARG/efs-zeropilot-3.5)
 
+[AnkiAuto](https://github.com/Yaremadzulynsky/AnkiAuto)
+
 [Physics Simulation](https://github.com/Yaremadzulynsky/PhysicsSimulation/blob/master/src/MainClass.java)
 
 # Experience
