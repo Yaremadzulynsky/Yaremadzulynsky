@@ -1,23 +1,39 @@
 # Hey there! 👋
 
+
 My name is Yarema Dzulynsky and I'm a Mechatronics Engineering student at the University of Waterloo, passionate about creating innovative solutions that bridge the gap between hardware and software. I love building physical devices that, while simple on their own, become incredibly powerful when combined with intelligent software. This intersection of hardware and software fascinates me because hardware alone lacks intelligence, and software lacks tangibility. Together, they create a tangible form of software that can interact with the physical world in meaningful ways.
 
+
 # Projects
+[**micros — Embedded Application Framework**](https://github.com/Yaremadzulynsky/micros)
+
+An open-source developer preview for composing embedded applications from reusable C/C++ services, with typed messages, remote inspection, application updates and rollback, and coding-agent workflows.
+
+[Website](https://meetmicros.com) · [Quickstart](https://docs.meetmicros.com/site/get-started/)
+
 [Laser Pointer Data Link](https://github.com/Yaremadzulynsky/laser_communication)
+
 
 [Integrated Navigation and Flight UAV Monitoring System](https://github.com/Yaremadzulynsky/INFUMS)
 
+
 [UWARG Flight Controller](https://github.com/UWARG/efs-zeropilot-3.5)
+
 
 [AnkiAuto](https://github.com/Yaremadzulynsky/AnkiAuto)
 
+
 [Physics Simulation](https://github.com/Yaremadzulynsky/PhysicsSimulation/blob/master/src/MainClass.java)
 
+
 # Experience
+- **Reflect Orbital**: Embedded Software Engineer Intern, Los Angeles, May–August 2026. Led the multi-camera recording stack for Eärendil-1, including Yocto-based embedded Linux, Rust/Python flight software, recoverable updates and media uplink/downlink.
+- **ENVGO**: Software Engineering Co-op, Waterloo, September–December 2025. Led development of Aquapilot for an autonomous hydrofoil, integrating ROS 2, multi-camera GStreamer/WebRTC streaming, Jetson Orin and onboard networking.
 - **Lava Computers**: Embedded R&D, Toronto, Ontario, 4 months
 - **Magna International**: IoT Developer, Industry 4.0, Aurora, Ontario, 8 months
 - **Aerodrone**: Telemetry Engineer, Kyiv, Ukraine, 4 months
 - **Waterloo Aerial Robotics Group**: Project Manager, Telemetry, Waterloo, Ontario, 12 months
+
 
 # Languages and Tools
 <p align="left"> 
@@ -41,8 +57,11 @@ My name is Yarema Dzulynsky and I'm a Mechatronics Engineering student at the Un
 </p>
 
 
+
+
 # Contact Me!
 <p align='center'>
 <a href="https://www.linkedin.com/in/yaremadzulynsky/"><img height="30" src="https://raw.githubusercontent.com/Yaremadzulynsky/Yaremadzulynsky/main/assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="mailto:ydzulyns@uwaterloo.ca"><img height="30" src="https://raw.githubusercontent.com/Yaremadzulynsky/Yaremadzulynsky/main/assets/gmail.png"/></a>&nbsp;&nbsp;
 </p>
+
